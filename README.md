@@ -6,12 +6,12 @@ import java.util.Scanner;
 
 import java.util.Arrays;
 
-public class ExercicioMediaVetores {
+public class notas classes {
 
 public static void main(String[] args) {
 	Scanner ler = new Scanner(System.in);
 	
-	// Declaracao das variaveis e de vetor com valor definido para 6 modulos 
+	// Declaracao das variaveis e das classes  com valor definido para 6 modulos 
 	int soma = 0, salas, q[] = new int[8];
 	float media = 0;
 
